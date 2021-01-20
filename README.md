@@ -8,4 +8,3 @@ Ensemble : NVT
 Temp : 300 K
 type = 'dumpfreq', istep1=10,
 
-see all the .in files for more info
